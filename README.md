@@ -1,5 +1,11 @@
 # Palette Studio
 
+## This is a personal learning project created for educational purposes and to explore different code concepts with ai concepts. 
+
+* **Status:** Personal sandbox / Portfolio piece.
+* **License:** This project is open-source and available for public educational use under the MIT License.
+* **Purpose:** Academic research and technical skill development.
+
 Palette Studio is a fully featured color palette designer that runs on the web and as a Windows desktop application powered by Electron. Explore expertly curated themes, craft custom palettes for both light and dark modes, preview UI components, and export the palette JSON for integration into design systems or codebases.
 
 ## Features
